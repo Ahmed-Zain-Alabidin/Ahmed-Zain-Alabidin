@@ -1,261 +1,257 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmed Zain Alabideen
-
-### Backend Developer | Node.js Specialist
-
-Building secure, scalable, and maintainable backend systems with **Node.js, Express.js, MongoDB & PostgreSQL**.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ahmed%20Zain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20Specialist&descAlignY=58&descSize=20&color=0:0f172a,50:1e293b,100:334155" width="100%"/>
 
 <br/>
 
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Designing+secure+RESTful+APIs;Node.js+%7C+Express.js+%7C+MongoDB+%7C+PostgreSQL" alt="Typing animation"/>
+</a>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/ahmed--zain/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:ahmedzain200294@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
+<a href="https://github.com/Ahmed-Zain-Alabidin">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="#about-me">Explore my work ↓</a>
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-I'm a **Backend Developer specializing in Node.js**, passionate about designing reliable APIs, database architectures, authentication systems, and scalable backend solutions.
-
-I have experience building systems across **education, agriculture, e-commerce, and service platforms**, while also being comfortable working across the stack when frontend support is needed.
-
-* 🔭 Currently focused on **Backend Development & Node.js**
-* ⚙️ Experienced with **RESTful API Design & Authentication**
-* 🗄️ Working with **MongoDB, PostgreSQL & MySQL**
-* 🔐 Building systems with **JWT & OAuth**
-* 🧠 Strong foundation in **OOP, Data Structures, Algorithms & Design Patterns**
-* 📚 Interested in **Software Architecture, clean code & scalable systems**
-* 🤝 Open to collaborating on interesting web and backend projects
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 💻 Languages
+Backend Developer specializing in **Node.js**, focused on building secure, scalable, and maintainable backend systems.
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-</p>
+I work primarily with **Node.js, Express.js, MongoDB, and PostgreSQL**, designing RESTful APIs, authentication systems, database structures, and backend architectures.
 
-### ⚙️ Backend
+I'm also comfortable working across the stack when frontend support is needed.
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🔐 APIs & Authentication
-
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### 🔧 Tools & Practices
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-**Also:** Query Optimization • Technical Documentation • Agile • Problem Solving • SOLID Principles • Design Patterns • Database Design • Software Architecture
+> **Backend first. Clean architecture. Practical solutions.**
 
 ---
 
-# 🚀 Featured Projects
+## Tech Stack
 
-## 🎓 Manara Platform
+<div align="center">
 
-**Educational Platform — V1.0.0 Released**
+### Backend
 
-A full-stack educational platform designed to support instructors and students.
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-**Role:** Backend Developer
+<br/><br/>
 
-**Tech Stack:**
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+<br/><br/>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,cpp,c" />
+
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+<br/>
+
+Additional experience:
+
+`RESTful APIs` · `JWT` · `OAuth` · `Query Optimization` · `Database Design` · `SOLID` · `Design Patterns` · `Software Architecture`
+
+---
+
+# Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Manara Platform
+
+**Educational Platform**
+
+A full-stack educational platform designed for instructors and students.
+
+**Backend**
 `Node.js` `Express.js` `MongoDB`
 
-### Highlights
+**Key work**
 
-* 🔐 Designed role-based access control for instructors and students
-* 👥 Built onboarding workflows for different user roles
-* ⚡ Improved the onboarding experience and reduced new-user ramp-up time
-* 🏗️ Designed backend architecture and RESTful APIs
+* Role-based access control
+* Instructor & student workflows
+* Authentication & authorization
+* Backend API architecture
+* Improved onboarding experience
 
----
+</td>
 
-## 🌱 GreenUP
+<td width="50%" valign="top">
 
-**Agricultural E-Commerce Platform — Live**
+### GreenUP
 
-An agricultural platform combining e-commerce and content management capabilities.
+**Agricultural E-Commerce Platform**
 
-**Role:** Backend Developer
+A platform combining agricultural e-commerce with content management.
 
-**Tech Stack:**
+**Backend**
 `Node.js` `Express.js` `MongoDB`
 
-### Highlights
+**Key work**
 
-* 🛒 Developed product listing APIs
-* 📅 Built event management functionality
-* 🖼️ Developed gallery APIs
-* 📩 Implemented contact management
-* ⚙️ Built an admin dashboard for content management
+* Product APIs
+* Event management
+* Gallery management
+* Contact management
+* Admin dashboard
 
----
+</td>
+</tr>
 
-## 🐾 Pets Care System
+<tr>
+<td width="50%" valign="top">
+
+### Pets Care System
 
 **Graduation Project**
 
-A full-stack pet care platform combining e-commerce, appointments, community features, and pet adoption.
+A full-stack pet care platform covering multiple services.
 
-**Role:** Backend Developer
-
-**Tech Stack:**
+**Backend**
 `Node.js` `Express.js` `MongoDB`
 
-### Highlights
+**Key work**
 
-* 🔌 Designed RESTful APIs
-* 🛒 E-commerce functionality
-* 📅 Appointment booking system
-* 👥 Owners' community
-* 🐕 Pet adoption listings
+* RESTful APIs
+* E-commerce
+* Appointment booking
+* Owners' community
+* Pet adoption listings
+
+</td>
+
+<td width="50%" valign="top">
+
+### What I Focus On
+
+Building backend systems that are:
+
+* Secure
+* Scalable
+* Maintainable
+* Well documented
+* Easy to extend
+
+I enjoy turning complex requirements into simple and reliable APIs.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### Backend Developer — Part-Time / Project-Based
 
-**Norama Tech**
-`Jul 2025 – Oct 2025`
+**Norama Tech** · `Jul 2025 — Oct 2025`
 
-* Developed and maintained RESTful APIs using **Node.js & Express.js**
-* Worked on projects across **education, agriculture, and e-commerce**
-* Designed and managed **MongoDB & PostgreSQL databases**
-* Worked on database schema design and query optimization
+Worked on client-facing backend projects across **education, agriculture, and e-commerce**.
+
+* Built and maintained RESTful APIs using Node.js and Express.js
+* Designed and managed MongoDB and PostgreSQL databases
+* Worked on schema design and query optimization
 * Created technical documentation
-* Improved workflows and usability for non-technical users
+* Simplified workflows for non-technical users
 
 ---
 
-# 🎓 Education
+# Education
 
-### 🎓 B.Sc. in Information Technology
+**B.Sc. in Information Technology**
+Egyptian E-Learning University · `2021 — 2025`
 
-**Egyptian E-Learning University (EELU)**
-`Sep 2021 – Jul 2025`
+Graduation Project Grade: **A+**
 
-**Graduation Project Grade: A+**
+**Web & User Interface Development**
+Information Technology Institute (ITI) · `2025 — 2026`
 
-### 💻 Web & User Interface Development
-
-**Information Technology Institute (ITI)**
-`Oct 2025 – Jul 2026`
-
-**9-Month Trainee**
-
-### ⚛️ React Web Development Track
-
-**Digital Egypt Pioneers Initiative — MCIT / DEPI**
-`Apr 2024 – Oct 2024`
+**React Web Development Track**
+Digital Egypt Pioneers Initiative — MCIT / DEPI · `2024`
 
 ---
 
-# 📜 Certifications & Training
-
-* 🏆 Web Development Using React — ITI
-* 🖥️ IT Specialist: Device Configuration & Management — Certiport / Pearson VUE
-* 🔐 Cybersecurity Trainee — ITI
-
----
-
-# 🧠 Core Concepts
-
-```text
-Data Structures
-Algorithms
-Object-Oriented Programming
-Problem Solving
-Design Patterns
-SOLID Principles
-Software Architecture
-Database Design
-Query Optimization
-RESTful API Design
-Authentication & Authorization
-```
-
----
-
-# 📊 GitHub Statistics
+# GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Zain-Alabidin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Zain-Alabidin&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Zain-Alabidin&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Zain-Alabidin&layout=compact&hide_border=true&theme=transparent" height="170"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Ahmed-Zain-Alabidin&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Ahmed-Zain-Alabidin&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Activity
 
 <div align="center">
 
-[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Zain-Alabidin\&theme=tokyo-night\&hide_border=true)](https://github.com/Ahmed-Zain-Alabidin)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Zain-Alabidin&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
-
-I'm always interested in connecting with developers, companies, and teams working on interesting products and challenging backend systems.
+# Let's Connect
 
 <div align="center">
+
+I'm open to interesting backend projects, collaborations, and opportunities.
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/ahmed--zain/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Zain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+ 
 
 <a href="mailto:ahmedzain200294@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ahmedzain200294%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-### 💻 Build. Learn. Improve. 🚀
+<sub>Ahmed Zain Alabideen · Backend Developer · Node.js Specialist</sub>
 
 </div>
