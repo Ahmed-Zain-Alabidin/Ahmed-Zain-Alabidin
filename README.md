@@ -8,9 +8,9 @@
 
 ## About
 
-Backend developer focused on building scalable REST APIs and database-driven systems. Project-based experience at Norama Tech, with training through the ITI Web Development Program and the MCIT DEPI React Track. B.Sc. in Information Technology, EELU.
+Backend Developer specializing in Node.js, Express.js, MongoDB, and PostgreSQL, with a track record of designing secure RESTful APIs and role-based systems across education, agriculture, and e-commerce domains. Comfortable working across the stack with frontend technologies when needed. Skilled at breaking down complex technical concepts into clear, well-documented solutions for both technical and non-technical stakeholders, and at simplifying user workflows to shorten onboarding time.
 
-Additional experience in backend workflow automation (n8n) and browser-based tooling (Chrome extensions, Manifest V3).
+Project-based experience at Norama Tech, with training through the ITI Web & UI Development Program and the MCIT DEPI React Track.
 
 ---
 
@@ -19,7 +19,7 @@ Additional experience in backend workflow automation (n8n) and browser-based too
 <table>
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,nodejs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,nodejs,cpp,c" /></td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
@@ -27,27 +27,35 @@ Additional experience in backend workflow automation (n8n) and browser-based too
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Infrastructure</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,vercel" /></td>
+    <td align="center"><b>Auth & APIs</b></td>
+    <td>REST&nbsp;·&nbsp;JWT&nbsp;·&nbsp;OAuth</td>
   </tr>
   <tr>
-    <td align="center"><b>Automation</b></td>
-    <td><img src="https://skillicons.dev/icons?i=n8n,git" /></td>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github" /></td>
   </tr>
 </table>
+
+**Concepts:** Data Structures & Algorithms · OOP · Design Patterns · SOLID Principles · Software Architecture · Database Design · Query Optimization
 
 ---
 
 ## Projects
 
-**DaaD Platform**
-Branded e-learning platform for teachers, including full authentication flow, a custom design system, and integration with an ASP.NET backend on AWS.
+**Manara Platform** — Educational Platform (v1.0.0 Released)
+Backend Developer · Node.js, Express.js, MongoDB
+Designed role-based access control for instructors and students, and simplified onboarding flows — cutting new-user ramp-up time by 30%.
 
-**Freelance Platform Automations**
-Chrome extensions and n8n workflows for job monitoring and offer submission automation on Arabic freelancing platforms.
+**GreenUP** — Agricultural E-Commerce Platform (Live)
+Backend Developer · Node.js, Express.js, MongoDB
+Developed backend APIs for product listings, events, gallery, and contact modules; built a full admin dashboard for content management.
+
+**Pets Care System** — Graduation Project
+Backend Developer · Node.js, Express.js, MongoDB
+Built RESTful APIs for a full-stack platform covering e-commerce, appointment booking, an owners' community, and adoption listings.
 
 ---
 
