@@ -16,25 +16,28 @@ Additional experience in backend workflow automation (n8n) and browser-based too
 
 ## Technical Skills
 
-**Languages & Runtime**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=express" />
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-
-**Infrastructure**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,vercel" />
-
-**Automation & Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=n8n,git" />
+<table>
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,nodejs" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=express" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infrastructure</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,vercel" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Automation</b></td>
+    <td><img src="https://skillicons.dev/icons?i=n8n,git" /></td>
+  </tr>
+</table>
 
 ---
 
